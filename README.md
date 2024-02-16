@@ -26,7 +26,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
    ```
-   [git clone https://github.com/your-username/your-repo.git](https://github.com/Mihretthe/MovieScene.git)
+   https://github.com/Mihretthe/MovieScene.git
    ```
 
 2. Open the project in Code::Blocks.
